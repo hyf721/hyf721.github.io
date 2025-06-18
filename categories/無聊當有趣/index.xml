@@ -1,40 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on HYF721</title>
-    <link>https://hyf721.github.io/blog/</link>
-    <description>Recent content in blog on HYF721</description>
+    <title>無聊當有趣 on HYF721</title>
+    <link>https://hyf721.github.io/categories/%E7%84%A1%E8%81%8A%E7%95%B6%E6%9C%89%E8%B6%A3/</link>
+    <description>Recent content in 無聊當有趣 on HYF721</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Jun 2025 14:30:00 +0800</lastBuildDate>
-    <atom:link href="https://hyf721.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>33333333333333333</title>
-      <link>https://hyf721.github.io/blog/post-3/</link>
-      <pubDate>Mon, 16 Jun 2025 14:30:00 +0800</pubDate>
-      <guid>https://hyf721.github.io/blog/post-3/</guid>
-      <description>&lt;p&gt;第3篇&lt;/p&gt;&#xA;&lt;p&gt;abcdefghijklmn&#xA;ABCDEFG&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://hyf721.github.io/categories/%E7%84%A1%E8%81%8A%E7%95%B6%E6%9C%89%E8%B6%A3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>4444444444444444444444</title>
       <link>https://hyf721.github.io/blog/post-4/</link>
       <pubDate>Mon, 16 Jun 2025 14:30:00 +0800</pubDate>
       <guid>https://hyf721.github.io/blog/post-4/</guid>
       <description>&lt;p&gt;第4篇&lt;/p&gt;&#xA;&lt;p&gt;abcdefghijklmn&#xA;ABCDEFG&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HYF&#39;s Sec. Hugo</title>
-      <link>https://hyf721.github.io/blog/post-2/</link>
-      <pubDate>Mon, 16 Jun 2025 14:30:00 +0800</pubDate>
-      <guid>https://hyf721.github.io/blog/post-2/</guid>
-      <description>&lt;p&gt;第2篇&lt;/p&gt;&#xA;&lt;p&gt;abcdefghijklmn&#xA;ABCDEFG&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>第1篇</title>
-      <link>https://hyf721.github.io/blog/post-1/</link>
-      <pubDate>Mon, 16 Jun 2025 14:30:00 +0800</pubDate>
-      <guid>https://hyf721.github.io/blog/post-1/</guid>
-      <description>&lt;p&gt;First hugo test nothing special.&#xA;abcdefghijklmn&#xA;ABCDEFG&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
