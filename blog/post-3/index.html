@@ -5,7 +5,7 @@
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="第333">
+  <meta name="description" content="BLE RX Sensitivity 規格描述的相關規定">
   <meta name="author" content="hyf721">
     
   
@@ -315,12 +315,12 @@
         <a href="/categories/wi-fi-%e7%ad%86%e8%a8%98%e5%88%86%e4%ba%ab"
           class="text-primary">Wi fi 筆記分享</a>
         
-        <h2>33333333333333333</h2>
+        <h2>BLE RX Sensitivity 的規格要求</h2>
         <div class="mb-3 post-meta">
           <span>By hyf721</span>
           
           <span class="border-bottom border-primary px-2 mx-1"></span>
-          <span>16 June 2025</span>
+          <span>18 June 2025</span>
           
         </div>
         
@@ -353,8 +353,6 @@
 
 
 
-  
-
 
 
 
@@ -362,77 +360,6 @@
   
 
   
-  
-    
-      
-    
-
-
-    
-    
-
-
-    
-    
-      
-      
-    
-    
-    
-
-
-    
-    
-      
-      
-        
-
-        
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-
-
-        <picture>
-          <source
-            
-              srcset="/images/portfolio_20250616_hu_d893ae9faea6005a.webp"
-            
-            media="(max-width: 575px)" />
-          <source
-            
-              srcset="/images/portfolio_20250616_hu_7a731c31ff9a6a15.webp"
-            
-            media="(max-width: 767px)" />
-          <source
-            
-              srcset="/images/portfolio_20250616_hu_66a945169cc0a110.webp"
-            
-            media="(max-width: 991px)" />
-          <source
-            
-              srcset="/images/portfolio_20250616_hu_41d76b6f077c6238.webp"
-             />
-          <img
-            
-              loading="lazy" decoding="async"
-              src="/images/portfolio_20250616_hu_81b46cc74cb5d215.png"
-            class=" img-fluid w-100 mb-4 img"
-            alt="33333333333333333"
-            width="957"
-            height="569" />
-        </picture>
-      
-      
-    
-    
   
 
 
@@ -441,9 +368,30 @@
 
         
         <div class="content mb-5">
-          <p>第3篇</p>
-<p>abcdefghijklmn
-ABCDEFG</p>
+          <p>Bluetooth SIG 規範中對 RX Sensitivity 的要求</p>
+<p>在 Bluetooth SIG 的核心規範（Bluetooth Core Specification）中，對於RX Sensitivity（接收靈敏度）的要求，會依不同藍牙技術類型（Classic vs. BLE）而有所不同。以下是針對 Bluetooth Low Energy（BLE）的接收靈敏度要求(根據 Bluetooth Core Specification v5.3/v5.4)</p>
+<p>BLE 接收靈敏度要求（RX Sensitivity Requirement）
+基本要求（Minimum RX Sensitivity）
+在以下條件下，BLE 接收器需能正常接收資料：</p>
+<p>•	測試條件：</p>
+<p>封包類型：PRBS9 資料模式</p>
+<p>封包長度：37 bytes（含 payload）</p>
+<p>頻率偏移：±150 kHz（如適用）</p>
+<p>訊號格式：GFSK</p>
+<p>錯誤率標準：PER ≤ 30%</p>
+<p>•	靈敏度門檻：</p>
+<p>-70 dBm 或更好（即 ≤ -70 dBm 都可接受）</p>
+<p>換句話說，BLE 的 RX Sensitivity 至少要達到 -70 dBm（在無干擾情況下仍能維持 PER ≤ 30%）</p>
+<p>先查詢
+Spec:
+BT core spec. 5.4
+<a href="https://www.bluetooth.com/specifications/specs/core-specification-5-4/">https://www.bluetooth.com/specifications/specs/core-specification-5-4/</a></p>
+<p>Page. 2655</p>
+<p><img src="/images/post/BTCore.png" alt="image"></p>
+<p>測試 37 Bytes 可推算出 BER 0.1% 約為 PER 30% (Follow下方R&amp;S, 測試手冊)
+意思是要測試在&lt;=30% PER EUT 能測到最低的Power, 標準是 -70 dBm, 一般BLE chip可以測到 -90 ~ -100 dBm區間</p>
+<p><a href="https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_application/application_notes/1ma282/1MA282_BT_IOT_4e.pdf">https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_application/application_notes/1ma282/1MA282_BT_IOT_4e.pdf</a>
+<img src="/images/post/RS.png" alt="image"></p>
 
         </div>
 
