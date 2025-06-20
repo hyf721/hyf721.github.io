@@ -6,21 +6,21 @@
     <description>Recent content in 無聊當有趣 on HYF721</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jun 2025 14:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 14:30:00 +0800</lastBuildDate>
     <atom:link href="https://hyf721.github.io/categories/%E7%84%A1%E8%81%8A%E7%95%B6%E6%9C%89%E8%B6%A3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>台製 AIC eSIM 實測</title>
+      <link>https://hyf721.github.io/blog/post-7/</link>
+      <pubDate>Fri, 20 Jun 2025 14:30:00 +0800</pubDate>
+      <guid>https://hyf721.github.io/blog/post-7/</guid>
+      <description>&lt;p&gt;已經2025年了，三星手機還是沒內建eSIM (對了我安卓派的)。&#xA;大概兩三年前，有創意的商人發明了實體eSIM(eSTK，5bar，ST33，&amp;hellip;)，彌補大部分安卓機沒內建eSIM卻想用eSIM的族群。&lt;/p&gt;&#xA;&lt;p&gt;疑問是為什麼需要eSIM? 實際又該怎麼用呢?&#xA;安卓機大部分出的都是雙卡機，今年初出國時還是蝦皮買實體網路SIM卡來插在SIM卡2的卡槽使用，卡1則維持台灣的主要卡，方便接台灣的跨海連絡電話。&#xA;但換個用法，若是卡2卡槽插的是eSIM，然後購買eSIM掃QR code 即可寫入eSIM國外上網方案至卡2的eSIM。好處是到了國外就不需要做找卡針換SIM卡的動作，降低了可能遺失SIM卡的風險。一直都沒出手的原因是淘寶或國外的實體eSIM卡價位還是稍高一點，一般要超過台幣五百以上，就一直沒出手。&lt;/p&gt;&#xA;&lt;p&gt;直到最近看到PTT和Mobile01有人分享(應該是業配)台灣廠商AIC出的實體eSIM，只要299，唯一的缺點是需要使用AIC的app寫卡，然後網友分享課服說可以用電腦EasyLPAC，但這個方式待驗證可否使用。然後我就下單實測了，&amp;hellip;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>川普懂哥的幸福配送</title>
       <link>https://hyf721.github.io/blog/post-4/</link>
       <pubDate>Wed, 18 Jun 2025 14:30:00 +0800</pubDate>
       <guid>https://hyf721.github.io/blog/post-4/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://trumpcard.gov/&#34;&gt;https://trumpcard.gov/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;我也是跪了，好詐騙網站&lt;/p&gt;&#xA;&lt;p&gt;要五百萬刀 (大陸用法即美金)&lt;/p&gt;&#xA;&lt;p&gt;截圖留念&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hyf721.github.io/images/post/TCard.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://hyf721.github.io/blog/post-5/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://hyf721.github.io/blog/post-5/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
