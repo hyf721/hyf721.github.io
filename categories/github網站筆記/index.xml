@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github網站筆記 on HYF721</title>
+    <link>https://hyf721.github.io/categories/github%E7%B6%B2%E7%AB%99%E7%AD%86%E8%A8%98/</link>
+    <description>Recent content in Github網站筆記 on HYF721</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jun 2025 14:30:00 +0800</lastBuildDate>
+    <atom:link href="https://hyf721.github.io/categories/github%E7%B6%B2%E7%AB%99%E7%AD%86%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>為Hugo網頁加入Disqus留言板</title>
+      <link>https://hyf721.github.io/blog/post-8/</link>
+      <pubDate>Thu, 26 Jun 2025 14:30:00 +0800</pubDate>
+      <guid>https://hyf721.github.io/blog/post-8/</guid>
+      <description>&lt;p&gt;參考Hahow課程，Github免費架站術！輕鬆打造個人品牌，第四章單元二。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://avnet.business.hahow.in/classroom/VL13FwO_LVgCkcWsKTPsSA&#34;&gt;https://avnet.business.hahow.in/classroom/VL13FwO_LVgCkcWsKTPsSA&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;步驟一：&lt;/p&gt;&#xA;&lt;p&gt;先去Disqus官網 &lt;a href=&#34;https://disqus.com/&#34;&gt;https://disqus.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;申請帳號，去開一個新的Site&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://disqus.com/admin/create/&#34;&gt;https://disqus.com/admin/create/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hyf721.github.io/images/post/d1.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;步驟二：&lt;/p&gt;&#xA;&lt;p&gt;點選 I don’t see my platform listed, install manually …&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

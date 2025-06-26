@@ -6,8 +6,22 @@
     <description>Recent content in blog on HYF721</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 14:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 15:30:00 +0800</lastBuildDate>
     <atom:link href="https://hyf721.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>傻眼的公司HR</title>
+      <link>https://hyf721.github.io/blog/post-9/</link>
+      <pubDate>Thu, 26 Jun 2025 15:30:00 +0800</pubDate>
+      <guid>https://hyf721.github.io/blog/post-9/</guid>
+      <description>&lt;p&gt;六月初，收到了一封HR總部發來的信件，內容重點是&lt;/p&gt;&#xA;&lt;p&gt;恭喜喔，您於本公司服務滿五年囉，公司將會發一筆獎金於本月薪資入帳日一起發送&lt;/p&gt;&#xA;&lt;p&gt;結果到了薪水日，什麼事也沒發生 &amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;問了HR，給的原因是美國總部未於結薪日前給名單，導致本月的服務獎金延後至七月發放。&lt;/p&gt;&#xA;&lt;p&gt;這理由沒問題，有問題的是既然早知道未給名單，那應該要在發薪前通知吧，而不是我去反映後才回應給有影響的人員，&lt;/p&gt;&#xA;&lt;p&gt;導致觀感不佳，又加了一條對畢司人事制度的不合理的鳥事。&lt;/p&gt;&#xA;&lt;p&gt;(那這一個月獎金的利息是不是就被公司概括承受，還是要另補貼給我們)。&lt;/p&gt;&#xA;&lt;p&gt;最後問到可以拿到 9xxx 真的是沒啥好爭取的，就補個便當錢 …&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>為Hugo網頁加入Disqus留言板</title>
+      <link>https://hyf721.github.io/blog/post-8/</link>
+      <pubDate>Thu, 26 Jun 2025 14:30:00 +0800</pubDate>
+      <guid>https://hyf721.github.io/blog/post-8/</guid>
+      <description>&lt;p&gt;參考Hahow課程，Github免費架站術！輕鬆打造個人品牌，第四章單元二。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://avnet.business.hahow.in/classroom/VL13FwO_LVgCkcWsKTPsSA&#34;&gt;https://avnet.business.hahow.in/classroom/VL13FwO_LVgCkcWsKTPsSA&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;步驟一：&lt;/p&gt;&#xA;&lt;p&gt;先去Disqus官網 &lt;a href=&#34;https://disqus.com/&#34;&gt;https://disqus.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;申請帳號，去開一個新的Site&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://disqus.com/admin/create/&#34;&gt;https://disqus.com/admin/create/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hyf721.github.io/images/post/d1.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;步驟二：&lt;/p&gt;&#xA;&lt;p&gt;點選 I don’t see my platform listed, install manually …&lt;/p&gt;</description>
+    </item>
     <item>
       <title>WS Loss disallow 是什麼?</title>
       <link>https://hyf721.github.io/blog/post-6/</link>
@@ -23,11 +37,11 @@
       <description>&lt;p&gt;已經2025年了，三星手機還是沒內建eSIM (對了我安卓派的)。&#xA;大概兩三年前，有創意的商人發明了實體eSIM(eSTK，5bar，ST33，&amp;hellip;)，彌補大部分安卓機沒內建eSIM卻想用eSIM的族群。&lt;/p&gt;&#xA;&lt;p&gt;疑問是為什麼需要eSIM? 實際又該怎麼用呢?&#xA;安卓機大部分出的都是雙卡機，今年初出國時還是蝦皮買實體網路SIM卡來插在SIM卡2的卡槽使用，卡1則維持台灣的主要卡，方便接台灣的跨海連絡電話。&#xA;但換個用法，若是卡2卡槽插的是eSIM，然後購買eSIM掃QR code 即可寫入eSIM國外上網方案至卡2的eSIM。好處是到了國外就不需要做找卡針換SIM卡的動作，降低了可能遺失SIM卡的風險。一直都沒出手的原因是淘寶或國外的實體eSIM卡價位還是稍高一點，一般要超過台幣五百以上，就一直沒出手。&lt;/p&gt;&#xA;&lt;p&gt;直到最近看到PTT和Mobile01有人分享(應該是業配)台灣廠商AIC出的實體eSIM，只要299，唯一的缺點是需要使用AIC的app寫卡，然後網友分享課服說可以用電腦EasyLPAC，但這個方式待驗證可否使用。然後我就下單實測了，&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AT&amp;T TBB 只能推了</title>
+      <title>AT&amp;T TBB 投等債唯一推</title>
       <link>https://hyf721.github.io/blog/post-2/</link>
       <pubDate>Wed, 18 Jun 2025 14:30:00 +0800</pubDate>
       <guid>https://hyf721.github.io/blog/post-2/</guid>
-      <description>&lt;p&gt;自從七年前首次接觸 AT&amp;amp;T 發行的 ETD（股號：TBB，全名：AT&amp;amp;T 5.35% Global Notes Due 2066），我便對這檔產品產生濃厚興趣。作為一檔期限超長、每季固定配息的 baby bond，它具備傳統債券的收益穩定性，同時在市場交易所掛牌，流動性相對友善。&lt;/p&gt;</description>
+      <description>&lt;p&gt;自從七年前首次接觸研究 AT&amp;amp;T 發行的 ETD（股號：TBB，全名：AT&amp;amp;T 5.35% Global Notes Due 2066），便把這檔產品當做目標來做，也實際在這幾年做了幾次。作為一檔期限超長、每季固定配息的 baby bond，它具備傳統債券的收益穩定性，同時在市場交易所掛牌，流動性相對友善。&lt;/p&gt;</description>
     </item>
     <item>
       <title>BLE RX Sensitivity 的規格要求</title>
