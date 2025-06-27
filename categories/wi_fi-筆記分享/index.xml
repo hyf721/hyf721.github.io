@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wi_Fi 筆記分享 on HYF</title>
+    <link>http://localhost:1313/categories/wi_fi-%E7%AD%86%E8%A8%98%E5%88%86%E4%BA%AB/</link>
+    <description>Recent content in Wi_Fi 筆記分享 on HYF</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Jun 2025 14:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/wi_fi-%E7%AD%86%E8%A8%98%E5%88%86%E4%BA%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BLE RX Sensitivity 的規格要求</title>
+      <link>http://localhost:1313/blog/post-3/</link>
+      <pubDate>Wed, 18 Jun 2025 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/post-3/</guid>
+      <description>&lt;p&gt;Bluetooth SIG 規範中對 RX Sensitivity 的要求&lt;/p&gt;&#xA;&lt;p&gt;在 Bluetooth SIG 的核心規範（Bluetooth Core Specification）中，對於RX Sensitivity（接收靈敏度）的要求，會依不同藍牙技術類型（Classic vs. BLE）而有所不同。以下是針對 Bluetooth Low Energy（BLE）的接收靈敏度要求(根據 Bluetooth Core Specification v5.3/v5.4)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

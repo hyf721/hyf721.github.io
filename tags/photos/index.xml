@@ -6,8 +6,15 @@
     <description>Recent content in Photos on HYF</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 14:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 15:30:00 +0800</lastBuildDate>
     <atom:link href="https://hyf721.github.io/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>為Hugo網頁 增加favicon</title>
+      <link>https://hyf721.github.io/blog/post-10/</link>
+      <pubDate>Fri, 27 Jun 2025 15:30:00 +0800</pubDate>
+      <guid>https://hyf721.github.io/blog/post-10/</guid>
+      <description>&lt;p&gt;favicon指的是Favorites Icon(我的最愛圖示)。&lt;br&gt;&#xA;可以顯示在瀏覽器我的最愛的小圖示，也是顯示在瀏覽器分頁的小圖示&#xA;目前使用的是 Liva Hugo 的主題，&lt;br&gt;&#xA;新版本(2025年6月)的設定擺在layouts/partials/head.html 裡面&lt;/p&gt;&#xA;&lt;p&gt;設定是&#xA;&lt;img src=&#34;https://hyf721.github.io/images/post/faviconpage.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>為Hugo網頁加入Disqus留言板</title>
       <link>https://hyf721.github.io/blog/post-8/</link>
