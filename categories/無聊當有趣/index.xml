@@ -6,8 +6,15 @@
     <description>Recent content in 無聊當有趣 on HYF</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 14:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 17:30:00 +0800</lastBuildDate>
     <atom:link href="https://hyf721.github.io/categories/%E7%84%A1%E8%81%8A%E7%95%B6%E6%9C%89%E8%B6%A3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在 Windows 上安裝 Gemini CLI</title>
+      <link>https://hyf721.github.io/blog/post-11/</link>
+      <pubDate>Fri, 27 Jun 2025 17:30:00 +0800</pubDate>
+      <guid>https://hyf721.github.io/blog/post-11/</guid>
+      <description>&lt;p&gt;Step1：安裝 Node.js (和 npm)&lt;/p&gt;&#xA;&lt;p&gt;Gemini CLI 是基於 Node.js 運行的，並且會透過 npm（Node Package Manager）來安裝。&lt;br&gt;&#xA;先安裝 Node.js。下載 Node.js 安裝程式：&lt;br&gt;&#xA;前往 Node.js 官方網站：https://nodejs.org/en/download/&lt;br&gt;&#xA;下載 LTS (長期支援) 版本，這通常是最穩定且推薦的版本。點擊 Windows Installer (.msi) 下方對應你系統位元（通常是 64-bit）的連結。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>台製 AIC eSIM 實測</title>
       <link>https://hyf721.github.io/blog/post-7/</link>
