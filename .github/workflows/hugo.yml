@@ -26,8 +26,10 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Deploy
+     - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          force_orphan: true  # <--- 加入這一行，確保不會與舊紀錄衝突
+          publish_branch: gh-pages
