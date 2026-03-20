@@ -11,7 +11,7 @@ description: "Gemini引導做的"
 
 # taxonomies
 categories:
-  - "無聊當有趣"
+  - "投資理財"
 tags:
   - "Photos"
 
