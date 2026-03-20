@@ -3,7 +3,10 @@ name: deploy
 on:
   push:
     branches:
-      - main  # 如果您的主分支叫 master，請改為 master
+      - main
+
+permissions:        # <--- 新增這一段
+  contents: write   # <--- 賦予寫入權限
 
 jobs:
   deploy:
@@ -11,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          submodules: true  # 確保主題 (liva) 能正確抓取
+          submodules: true
           fetch-depth: 0
 
       - name: Setup Hugo
