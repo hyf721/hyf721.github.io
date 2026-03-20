@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog on HYF</title><link>https://hyf721.github.io/blog/</link><description>Recent content in blog on HYF</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2026 10:20:00 +0800</lastBuildDate><atom:link href="https://hyf721.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Forward PE vs Training PE Python built website</title><link>https://hyf721.github.io/blog/post-13/</link><pubDate>Fri, 20 Mar 2026 10:20:00 +0800</pubDate><guid>https://hyf721.github.io/blog/post-13/</guid><description>&lt;p&gt;github repo:
+&lt;a href="https://github.com/hyf721/forwardpe"&gt;https://github.com/hyf721/forwardpe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Website:
+&lt;a href="https://forwardpecheck.streamlit.app/"&gt;https://forwardpecheck.streamlit.app/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>7月生日省了</title><link>https://hyf721.github.io/blog/post-12/</link><pubDate>Thu, 31 Jul 2025 17:30:00 +0800</pubDate><guid>https://hyf721.github.io/blog/post-12/</guid><description>&lt;p&gt;7月生日月省了&lt;/p&gt;
+&lt;p&gt;7/5&lt;br&gt;
+麥當勞 大麥克壽星餐&lt;br&gt;
+79 原價78+38&lt;br&gt;
+省37&lt;/p&gt;
+&lt;p&gt;7/4&lt;br&gt;
+韓姜熙의小廚房&lt;br&gt;
+TOFU鐵粉卡&lt;br&gt;
+送39飲料 檸檬氣泡&lt;br&gt;
+省39&lt;/p&gt;</description></item><item><title>在 Windows 上安裝 Gemini CLI</title><link>https://hyf721.github.io/blog/post-11/</link><pubDate>Fri, 27 Jun 2025 17:30:00 +0800</pubDate><guid>https://hyf721.github.io/blog/post-11/</guid><description>&lt;p&gt;Step1：安裝 Node.js (和 npm)&lt;/p&gt;
+&lt;p&gt;Gemini CLI 是基於 Node.js 運行的，並且會透過 npm（Node Package Manager）來安裝。&lt;br&gt;
+先安裝 Node.js。下載 Node.js 安裝程式：&lt;br&gt;
+前往 Node.js 官方網站：https://nodejs.org/en/download/&lt;br&gt;
+下載 LTS (長期支援) 版本，這通常是最穩定且推薦的版本。點擊 Windows Installer (.msi) 下方對應你系統位元（通常是 64-bit）的連結。&lt;/p&gt;</description></item><item><title>為Hugo網頁 增加favicon</title><link>https://hyf721.github.io/blog/post-10/</link><pubDate>Fri, 27 Jun 2025 15:30:00 +0800</pubDate><guid>https://hyf721.github.io/blog/post-10/</guid><description>&lt;p&gt;favicon指的是Favorites Icon(我的最愛圖示)。&lt;br&gt;
+可以顯示在瀏覽器我的最愛的小圖示，也是顯示在瀏覽器分頁的小圖示
+目前使用的是 Liva Hugo 的主題，&lt;br&gt;
+新版本(2025年6月)的設定擺在layouts/partials/head.html 裡面&lt;/p&gt;
+&lt;p&gt;設定是
+&lt;img src="https://hyf721.github.io/images/post/faviconpage.png" alt="image"&gt;&lt;/p&gt;</description></item><item><title>為Hugo網頁加入Disqus留言板</title><link>https://hyf721.github.io/blog/post-8/</link><pubDate>Thu, 26 Jun 2025 14:30:00 +0800</pubDate><guid>https://hyf721.github.io/blog/post-8/</guid><description>&lt;p&gt;參考Hahow課程，Github免費架站術！輕鬆打造個人品牌，第四章單元二。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://avnet.business.hahow.in/classroom/VL13FwO_LVgCkcWsKTPsSA"&gt;https://avnet.business.hahow.in/classroom/VL13FwO_LVgCkcWsKTPsSA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;步驟一：&lt;/p&gt;
+&lt;p&gt;先去Disqus官網 &lt;a href="https://disqus.com/"&gt;https://disqus.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;申請帳號，去開一個新的Site&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://disqus.com/admin/create/"&gt;https://disqus.com/admin/create/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://hyf721.github.io/images/post/d1.png" alt="image"&gt;&lt;/p&gt;
+&lt;p&gt;步驟二：&lt;/p&gt;
+&lt;p&gt;點選 I don’t see my platform listed, install manually …&lt;/p&gt;</description></item><item><title>WS Loss disallow 是什麼?</title><link>https://hyf721.github.io/blog/post-6/</link><pubDate>Fri, 20 Jun 2025 14:30:00 +0800</pubDate><guid>https://hyf721.github.io/blog/post-6/</guid><description>&lt;p&gt;&lt;img src="https://hyf721.github.io/images/post/WS.png" alt="image"&gt;&lt;/p&gt;
+&lt;p&gt;WS Loss Disallow指的是Wash Sale Disallowed Loss，即沖銷交易中不允許扣除的損失。這與美國國稅局（IRS）的沖銷交易規則（Wash Sale Rule）有關，該規則旨在防止投資者通過短期內的買賣操作來創造可扣除的損失。&lt;/p&gt;
+&lt;p&gt;什麼是Wash Loss?
+IRS的解釋: 當您以虧損出售某項證券，並在出售前後的30天內（共61天的期間）購買了相同或實質相同的證券時，就構成了沖銷交易。在這種情況下，該虧損在當年度的報稅中將被視為無效，不能用來抵減資本利得或其他收入。&lt;/p&gt;</description></item><item><title>台製 AIC eSIM 實測</title><link>https://hyf721.github.io/blog/post-7/</link><pubDate>Fri, 20 Jun 2025 14:30:00 +0800</pubDate><guid>https://hyf721.github.io/blog/post-7/</guid><description>&lt;p&gt;已經2025年了，三星手機還是沒內建eSIM (對了我安卓派的)。
+大概兩三年前，有創意的商人發明了實體eSIM(eSTK，5bar，ST33，&amp;hellip;)，彌補大部分安卓機沒內建eSIM卻想用eSIM的族群。&lt;/p&gt;
+&lt;p&gt;疑問是為什麼需要eSIM? 實際又該怎麼用呢?
+安卓機大部分出的都是雙卡機，今年初出國時還是蝦皮買實體網路SIM卡來插在SIM卡2的卡槽使用，卡1則維持台灣的主要卡，方便接台灣的跨海連絡電話。
+但換個用法，若是卡2卡槽插的是eSIM，然後購買eSIM掃QR code 即可寫入eSIM國外上網方案至卡2的eSIM。好處是到了國外就不需要做找卡針換SIM卡的動作，降低了可能遺失SIM卡的風險。一直都沒出手的原因是淘寶或國外的實體eSIM卡價位還是稍高一點，一般要超過台幣五百以上，就一直沒出手。&lt;/p&gt;
+&lt;p&gt;直到最近看到PTT和Mobile01有人分享(應該是業配)台灣廠商AIC出的實體eSIM，只要299，唯一的缺點是需要使用AIC的app寫卡，然後網友分享課服說可以用電腦EasyLPAC，但這個方式待驗證可否使用。然後我就下單實測了，&amp;hellip;&lt;/p&gt;</description></item><item><title>AT&amp;T TBB 投等債唯一推</title><link>https://hyf721.github.io/blog/post-2/</link><pubDate>Wed, 18 Jun 2025 14:30:00 +0800</pubDate><guid>https://hyf721.github.io/blog/post-2/</guid><description>&lt;p&gt;自從七年前首次接觸研究 AT&amp;amp;T 發行的 ETD（股號：TBB，全名：AT&amp;amp;T 5.35% Global Notes Due 2066），便把這檔產品當做目標來做，也實際在這幾年做了幾次。作為一檔期限超長、每季固定配息的 baby bond，它具備傳統債券的收益穩定性，同時在市場交易所掛牌，流動性相對友善。&lt;/p&gt;</description></item><item><title>BLE RX Sensitivity 的規格要求</title><link>https://hyf721.github.io/blog/post-3/</link><pubDate>Wed, 18 Jun 2025 14:30:00 +0800</pubDate><guid>https://hyf721.github.io/blog/post-3/</guid><description>&lt;p&gt;Bluetooth SIG 規範中對 RX Sensitivity 的要求&lt;/p&gt;
+&lt;p&gt;在 Bluetooth SIG 的核心規範（Bluetooth Core Specification）中，對於RX Sensitivity（接收靈敏度）的要求，會依不同藍牙技術類型（Classic vs. BLE）而有所不同。以下是針對 Bluetooth Low Energy（BLE）的接收靈敏度要求(根據 Bluetooth Core Specification v5.3/v5.4)&lt;/p&gt;</description></item><item><title>川普懂哥的幸福配送</title><link>https://hyf721.github.io/blog/post-4/</link><pubDate>Wed, 18 Jun 2025 14:30:00 +0800</pubDate><guid>https://hyf721.github.io/blog/post-4/</guid><description>&lt;p&gt;&lt;a href="https://trumpcard.gov/"&gt;https://trumpcard.gov/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我也是跪了，好詐騙網站&lt;/p&gt;
+&lt;p&gt;要五百萬刀 (大陸用法即美金)&lt;/p&gt;
+&lt;p&gt;截圖留念&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/post/TCard.png" alt="image"&gt;&lt;/p&gt;</description></item><item><title>4x歲的資產配置</title><link>https://hyf721.github.io/blog/post-1/</link><pubDate>Mon, 16 Jun 2025 14:30:00 +0800</pubDate><guid>https://hyf721.github.io/blog/post-1/</guid><description>&lt;p&gt;&lt;img src="https://hyf721.github.io/images/gallery/portfolio_20250618.png" alt="image"&gt;&lt;/p&gt;
+&lt;p&gt;參考綠角的配置，自己配了一套適合自己懶人操作的資產配置，預計將於六月底全面布建完成。整體投資組合的股債比為7:3或可調製6:4，主要著眼於長期成長潛力與一定程度的風險控管。NOTE:上圖尚未完成，僅顯示到今日的進度。&lt;/p&gt;
+&lt;p&gt;股票部分，採全球分散策略，配置比重約為美股60%、非美股40%。其中，主要持有ETF如VTI(追蹤美國整體市場)與VXUS(非美的全球市場)，以掌握全球經濟增長的機會，且可同時降低單一市場波動風險。覺得川懂弱勢美元走向，VXUS反而會有保底匯率的成長。&lt;/p&gt;
+&lt;p&gt;債券配置則佔整體資產的約30-40%，提供穩定收益與市場修正時的避風港，若美國真的展開降息，還會有資本利得。另有1%的資產配置於加密貨幣，包括比特幣與以太幣，以及少量的穩定幣（USDT/USDC），用於參與區塊鏈創新帶來的潛在報酬。&lt;/p&gt;
+&lt;p&gt;此外，預計保留約5-10%的現金，以維持流動性、應對突發狀況，或視市場情況作為機動調整的空間。整體而言，這份配置在成長、穩定與靈活性之間取得平衡，目標是穩健累積長期資產。45歲時炒公司魷魚(自以為)。&lt;/p&gt;</description></item></channel></rss>
