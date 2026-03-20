@@ -1,0 +1,28 @@
+
+############################## navigation ###############################
+# main menu
+[[main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[main]]
+name = "About"
+URL = "about/"
+weight = 2
+
+# footer menu
+[[footer]]
+name = "About"
+URL = "about/"
+weight = 1
+
+[[footer]]
+name = "Post"
+URL = "blog/"
+weight = 2
+
+[[footer]]
+name = "Contact"
+URL = "contact/"
+weight = 3

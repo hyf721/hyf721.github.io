@@ -1,0 +1,8 @@
+######################## default configuration ####################
+baseURL = "https://hyf721.github.io"
+languageCode = "zh-tw"
+title = "HYF"
+theme = "liva-hugo"
+summaryLength = "10"
+pagination.pagerSize = 6
+disqusShortname = "hyf721"

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>投資理財 on HYF</title>
+    <link>http://localhost:1313/categories/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/</link>
+    <description>Recent content in 投資理財 on HYF</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jun 2025 14:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WS Loss disallow 是什麼?</title>
+      <link>http://localhost:1313/blog/post-6/</link>
+      <pubDate>Fri, 20 Jun 2025 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/post-6/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/post/WS.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;WS Loss Disallow指的是Wash Sale Disallowed Loss，即沖銷交易中不允許扣除的損失。這與美國國稅局（IRS）的沖銷交易規則（Wash Sale Rule）有關，該規則旨在防止投資者通過短期內的買賣操作來創造可扣除的損失。&lt;/p&gt;&#xA;&lt;p&gt;什麼是Wash Loss?&#xA;IRS的解釋: 當您以虧損出售某項證券，並在出售前後的30天內（共61天的期間）購買了相同或實質相同的證券時，就構成了沖銷交易。在這種情況下，該虧損在當年度的報稅中將被視為無效，不能用來抵減資本利得或其他收入。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AT&amp;T TBB 投等債唯一推</title>
+      <link>http://localhost:1313/blog/post-2/</link>
+      <pubDate>Wed, 18 Jun 2025 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/post-2/</guid>
+      <description>&lt;p&gt;自從七年前首次接觸研究 AT&amp;amp;T 發行的 ETD（股號：TBB，全名：AT&amp;amp;T 5.35% Global Notes Due 2066），便把這檔產品當做目標來做，也實際在這幾年做了幾次。作為一檔期限超長、每季固定配息的 baby bond，它具備傳統債券的收益穩定性，同時在市場交易所掛牌，流動性相對友善。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>4x歲的資產配置</title>
+      <link>http://localhost:1313/blog/post-1/</link>
+      <pubDate>Mon, 16 Jun 2025 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/post-1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/gallery/portfolio_20250618.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;參考綠角的配置，自己配了一套適合自己懶人操作的資產配置，預計將於六月底全面布建完成。整體投資組合的股債比為7:3或可調製6:4，主要著眼於長期成長潛力與一定程度的風險控管。NOTE:上圖尚未完成，僅顯示到今日的進度。&lt;/p&gt;&#xA;&lt;p&gt;股票部分，採全球分散策略，配置比重約為美股60%、非美股40%。其中，主要持有ETF如VTI(追蹤美國整體市場)與VXUS(非美的全球市場)，以掌握全球經濟增長的機會，且可同時降低單一市場波動風險。覺得川懂弱勢美元走向，VXUS反而會有保底匯率的成長。&lt;/p&gt;&#xA;&lt;p&gt;債券配置則佔整體資產的約30-40%，提供穩定收益與市場修正時的避風港，若美國真的展開降息，還會有資本利得。另有1%的資產配置於加密貨幣，包括比特幣與以太幣，以及少量的穩定幣（USDT/USDC），用於參與區塊鏈創新帶來的潛在報酬。&lt;/p&gt;&#xA;&lt;p&gt;此外，預計保留約5-10%的現金，以維持流動性、應對突發狀況，或視市場情況作為機動調整的空間。整體而言，這份配置在成長、穩定與靈活性之間取得平衡，目標是穩健累積長期資產。45歲時炒公司魷魚(自以為)。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
